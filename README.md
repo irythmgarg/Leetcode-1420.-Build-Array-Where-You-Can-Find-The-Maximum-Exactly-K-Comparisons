@@ -10,9 +10,11 @@ Given three integers `n`, `m`, and `k`, return the number of arrays of length `n
 ### ✨ Example
 
 ```
-Input: n = 3, m = 2, k = 1
-Output: 2
-Explanation: The two valid arrays are [1,1,2] and [2,1,1]
+
+Input: n = 2, m = 3, k = 1
+Output: 6
+Explanation: The possible arrays are [1, 1], [2, 1], [2, 2], [3, 1], [3, 2] [3, 3]
+
 ```
 
 ---
